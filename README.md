@@ -1,4 +1,4 @@
 # mycoin
-wallet 
+
 
 BLockChian Wallet
